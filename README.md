@@ -1,6 +1,6 @@
 # App Álcool ou Gasolina
 
-<img src="./,github/alcoolgasolina.png" alt="alcoolgasolina">
+<img src="./.github/alcoolgasolina.png" alt="alcoolgasolina">
 
 ## Techs 
 Esse projeto foi desenvolvido com as seguintes tecnologias
@@ -9,7 +9,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias
 * [ ] Flutter
 
 ## Projeto
-Um App que aux. a escolha do combustivel pela elhor economia usando a formula '(A/G) > 0.7 ? G : A'. 
+Um App que aux. a escolha do combustivel pela melhor economia usando a formula '(A/G) > 0.7 ? G : A'. 
 O projeto foi desenvolvido durane o curso Desenvolvimento Android e IOS com Flutter 2021 - crie Apps
 
 ## Getting Started
